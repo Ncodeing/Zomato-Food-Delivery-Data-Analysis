@@ -52,6 +52,7 @@ streamlit run zomato_dashboard_with_filters.py
 ---
 
 ## 📂 **Project Structure**
+
 ├── zomato_dashboard_with_filters.py   # Streamlit Dashboard Code<br>
 ├── Zomato_data.csv                    # Dataset (local file)<br>
 └── README.md                          # Project Documentation<br>
