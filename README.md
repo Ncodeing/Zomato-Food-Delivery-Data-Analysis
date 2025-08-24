@@ -20,6 +20,13 @@ The dashboard was built using the following tools and technologies:<br>
 - Fields: `Restaurant Type`, `Online Order`, `Rating`, `Votes`, `Approx Cost`, `Location`, etc.
 - Source: Provided as `Zomato_data.csv`
 
+## 📂 **Project Structure**
+
+├── zomato.ipynb                       # Jupyter notebook <br>
+├── zomato.pbix                        # Power Bi Dashboard <br>
+├── Zomato_data.csv                    # Dataset (local file)<br>
+└── README.md                          # Project Documentation<br>
+
 
 ### **Highlights**
 
@@ -53,14 +60,7 @@ The dashboard was built using the following tools and technologies:<br>
 
 
 ### Demos
-Show what the dashboard looks like. - ![Alt text](https://github.com/username/repo/assets/image.png)
-Example: ![Dashboard Preview](https://github.com/the-mansi-goel/Ski-dashboard/blob/main/Snapshot%20of%20the%20Dahbaord.png)
-An interactive **Streamlit dashboard** to analyze Zomato restaurant orders, ratings, price patterns, and customer behaviors with filters and visual insights.
+![Dashboard Preview]([https://github.com/Ncodeing/Zomato-Food-Delivery-Data-Analysis/blob/main/Zomato%20dashboard.png])
+An interactive **Power BI dashboard** to analyze Zomato restaurant orders, ratings, price patterns, and customer behaviors with filters and visual insights.
 
 
-## 📂 **Project Structure**
-
-├── zomato.ipynb                       # Jupyter notebook <br>
-├── zomato_dashboard_with_filters.py   # Streamlit Dashboard Code<br>
-├── Zomato_data.csv                    # Dataset (local file)<br>
-└── README.md                          # Project Documentation<br>
