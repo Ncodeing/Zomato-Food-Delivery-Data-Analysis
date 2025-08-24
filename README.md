@@ -60,7 +60,7 @@ The dashboard was built using the following tools and technologies:<br>
 
 
 ### Demos
-![Dashboard Preview]([https://github.com/Ncodeing/Zomato-Food-Delivery-Data-Analysis/blob/main/Zomato%20dashboard.png])
+![Dashboard Preview](https://github.com/Ncodeing/Zomato-Food-Delivery-Data-Analysis/blob/main/Zomato%20dashboard.png)
 An interactive **Power BI dashboard** to analyze Zomato restaurant orders, ratings, price patterns, and customer behaviors with filters and visual insights.
 
 
